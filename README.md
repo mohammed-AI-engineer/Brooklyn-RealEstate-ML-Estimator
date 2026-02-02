@@ -11,8 +11,8 @@ An enterprise-grade Machine Learning system designed to estimate real estate val
 
 ## Performance Metrics
 - Algorithm: Gradient Boosted Decision Trees (XGBoost)
-- R2 Score: 0.8965 (Strong Variance Explanation)
-- Mean Absolute Error (MAE): $444,304
+- R2 Score: 0.8841 (Strong Variance Explanation)
+- Mean Absolute Error (MAE): $450,848.93
 - Market Data: 13,727 Property Transaction Vectors analyzed.
 
 ## Tech Stack
@@ -32,4 +32,5 @@ An enterprise-grade Machine Learning system designed to estimate real estate val
    streamlit run dashboard.py
 
 ---
+
 2026 Brooklyn Real Estate Intelligence | Engineered for Precision.
